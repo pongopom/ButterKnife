@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ButterKnife</string>
+
+
+    <!--TODO 7 create a String resource -->
+    <string name="test_string">Just a string to text ButterKnife</string>
+</resources>
